@@ -137,6 +137,8 @@ by providing meaningful insights into BMI trends and associated health risks.
 BMI-Analysis/
 ├──BMI_Data.csv
 ├──BMI_Analysis.pbix
+├──BMI_Analysis_Report.pdf
+├──BMI_Health_Intelligence.ppix
 ├── Images/
 │   └── Dashboard.png
 └── README.md
